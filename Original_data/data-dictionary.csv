@@ -1,0 +1,32 @@
+variable,description
+annual_income,The self-reported annual income provided by the borrower during registration.
+delinquency_2y,The number of 30+ days past-due incidences of delinquency in the borrower's credit file for the past 2 years.
+description,Loan description provided by the borrower.
+debt_to_income,"A ratio calculated using the borrower's total monthly debt payments on the total debt obligations, excluding mortgage and the requested loan, divided by the borrower’s self-reported monthly income."
+earliest_credit_line,The month the borrower's earliest reported credit line was opened.
+employment_length,Employment length in years. Possible values are between 0 and 10 where 0 means less than one year and 10 means ten or more years.
+job_title,The job title supplied by the borrower when applying for the loan.
+home_ownership,"The home ownership status provided by the borrower during registration. The values are: RENT, OWN, MORTGAGE, OTHER."
+inquiries_6m,The number of inquiries in past 6 months (excluding auto and mortgage inquiries).
+installment,The monthly payment owed by the borrower.
+interest_rate,Interest rate on the loan.
+issue_date,The month which the loan was funded.
+loan_amount,The listed amount of the loan applied for by the borrower.
+loan_status,Current status of the loan.
+last_delinquency_months,The number of months since the borrower's last delinquency.
+last_derog_months,Months since most recent 90-day or worse rating.
+last_record_months,The number of months since the last public record.
+open_accounts,The number of open credit lines in the borrower's credit file.
+public_records,Number of derogatory public records.
+purpose,A category provided by the borrower for the loan request.
+credit_card_balance,Total credit revolving balance.
+credit_card_usage,"Revolving line utilization rate, or the amount of credit the borrower is using relative to all available revolving credit."
+term,The number of payments on the loan. Values are in months and can be either 36 or 60.
+title,The loan title provided by the borrower.
+nr_accounts,The total number of credit lines currently in the borrower's credit file.
+amount_payed,Payments received to date for total amount funded.
+total_current_balance,Total current balance of all accounts.
+year,The year which the loan was funded.
+district,The geographic district of the borrower's address.
+postcode_district,The postcode of the borrower's address.
+credit_score,A numeric score rating the creditworthiness of the borrower.
