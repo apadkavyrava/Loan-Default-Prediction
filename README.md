@@ -107,7 +107,9 @@ Two types of maps were analyzed.
 
 ### Raw Loan Locations
 
-file:///Users/anna/Documents/Projects%20and%20test%20tasks/GIT_projects/10_FCA/Loan-Default-Prediction/uk_loan_map.html
+[file:///Users/anna/Documents/Projects%20and%20test%20tasks/GIT_projects/10_FCA/Loan-Default-Prediction/uk_loan_map.html](https://apadkavyrava.github.io/Loan-Default-Prediction/uk_loan_map.html)
+
+
 - No clear geographic clusters of default  
 - Most loans originate from large urban areas  
 
